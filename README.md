@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m Andrea Dottor
-- 🤔 I’m on Twitter https://twitter.com/dottor
+- 🖖 I’m Andrea Dottor
+- 🐦 I’m on Twitter https://twitter.com/dottor
 - 🤔 I’m on Mastodon <a rel="me" href="https://hachyderm.io/@dottor">Mastodon</a>
 
 ---
 
-
-
 - 📢 You can find my podcast **.NET in pillole** on:
   
-<table style="border:0">
+<table>
   <tr>
     <td>
       <img src="https://www.dottor.net/images/podcast_logo.png" alt="logo .NET in pillole" width="150" height="150" />
