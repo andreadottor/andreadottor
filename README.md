@@ -3,7 +3,7 @@
 - 🖖 I’m Andrea Dottor
 - 🐦 I’m on Twitter https://twitter.com/dottor
 - 🦄 I’m on Mastodon <a rel="me" href="https://hachyderm.io/@dottor">https://hachyderm.io/@dottor</a>
-- 📹 Check my video on https://www.youtube.com/c/AndreaDottor
+- 📹 Watch my videos on https://www.youtube.com/c/andreadottor
 
 ---
 
@@ -22,19 +22,3 @@
     </td>
   </tr>
 </table>
-
-
-<!--
-**andreadottor/andreadottor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
