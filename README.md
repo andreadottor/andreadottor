@@ -7,7 +7,7 @@
 
 ---
 
-- 📢 You can find my podcast **.NET in pillole** on:
+### 📢 You can find my podcast **.NET in pillole** on:
   
 <table>
   <tr>
@@ -23,7 +23,9 @@
   </tr>
 </table>
 
-### 📺 Latest YouTube Videos
+---
+
+### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
 - [262 - Generare dati fake per i test con AutoFixture e Bogus](https://www.youtube.com/watch?v=DBGGYvbB6Xc)
@@ -33,6 +35,6 @@
 - [258 - Unit test di componenti Blazor con bUnit](https://www.youtube.com/watch?v=vxN0ipnuepg)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]
+➡️ [more videos...](https://www.youtube.com/AndreaDottor)
 
----
+
