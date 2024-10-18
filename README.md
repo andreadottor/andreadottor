@@ -22,3 +22,13 @@
     </td>
   </tr>
 </table>
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
+---
