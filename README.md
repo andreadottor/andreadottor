@@ -26,7 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [262 - Generare dati fake per i test con AutoFixture e Bogus](https://www.youtube.com/watch?v=DBGGYvbB6Xc)
+- [261 - Mocking con NSubstitute...e due parole sul passato infelice di Moq](https://www.youtube.com/watch?v=nZz2UbGVShU)
+- [260 - Moq, la più utilizzata libreria di mock...per i nostri unit-test](https://www.youtube.com/watch?v=At_hrMFCStY)
+- [259 - Asserzioni fluent nei nostri test con FluentAssertions](https://www.youtube.com/watch?v=7jsXM9vjiVs)
+- [258 - Unit test di componenti Blazor con bUnit](https://www.youtube.com/watch?v=vxN0ipnuepg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
