@@ -28,7 +28,7 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
-- [Applicazioni resilienti, testiamole con Dev Proxy](https://www.youtube.com/watch?v=KL50wYL2XVQ)
+- [264 - Applicazioni resilienti, testiamole con Dev Proxy](https://www.youtube.com/watch?v=KL50wYL2XVQ)
 - [263 - Respawn e Testcontainers, due comode utility per i nostri test](https://www.youtube.com/watch?v=_sm90B4-5ew)
 - [262 - Generare dati fake per i test con AutoFixture e Bogus](https://www.youtube.com/watch?v=DBGGYvbB6Xc)
 - [261 - Mocking con NSubstitute...e due parole sul passato infelice di Moq](https://www.youtube.com/watch?v=nZz2UbGVShU)
