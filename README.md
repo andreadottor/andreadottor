@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🖖 I’m Andrea Dottor
-- 🐦 I’m on Twitter https://twitter.com/dottor
+- 🐦 I’m on X https://x.com/dottor
+- 🦋 I’m on Bluesky https://bsky.app/profile/andrea.dottor.net
 - 🦄 I’m on Mastodon <a rel="me" href="https://hachyderm.io/@dottor">https://hachyderm.io/@dottor</a>
 - 📹 Watch my videos on https://www.youtube.com/c/andreadottor
 
