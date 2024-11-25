@@ -31,8 +31,8 @@
 - [268 - Le novità di NET 9 per MAUI](https://www.youtube.com/watch?v=N6IoJT2uX5o)
 - [267 - .NET 9 è arrivato!](https://www.youtube.com/watch?v=5-fySZDO8Ak)
 - [266 - Test Driven Development, investimento o costo?](https://www.youtube.com/watch?v=vqL6MNm1FeA)
-- [Ti aspetto a WPC 2024](https://www.youtube.com/watch?v=PVcrLhjTJqc)
 - [265 - Gestire gli aggiornamenti del database con FluentMigrator](https://www.youtube.com/watch?v=tmD_BUgBle0)
+- [264 - Applicazioni resilienti, testiamole con Dev Proxy](https://www.youtube.com/watch?v=KL50wYL2XVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
