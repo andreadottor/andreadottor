@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [270 - Cambiamenti e migliorie per OpenAPI con .NET 9](https://www.youtube.com/watch?v=6xJc5ALYfWA)
 - [269 - Ecco le novità arrivate in Blazor con .NET 9](https://www.youtube.com/watch?v=3Ew-_3GoH1E)
 - [268 - Le novità di NET 9 per MAUI](https://www.youtube.com/watch?v=N6IoJT2uX5o)
 - [267 - .NET 9 è arrivato!](https://www.youtube.com/watch?v=5-fySZDO8Ak)
 - [266 - Test Driven Development, investimento o costo?](https://www.youtube.com/watch?v=vqL6MNm1FeA)
-- [265 - Gestire gli aggiornamenti del database con FluentMigrator](https://www.youtube.com/watch?v=tmD_BUgBle0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
