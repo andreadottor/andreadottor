@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [273 - Consiglio di lettura: Atomic Habits, piccole abitudini per grandi cambiamenti](https://www.youtube.com/watch?v=zTxqcfR40DY)
 - [272 - Il futuro di Blazor - L&#39;intervista a Daniel Roth](https://www.youtube.com/watch?v=0k93XpnHWYs)
 - [271 - Text templating con Scriban](https://www.youtube.com/watch?v=LvMvpGqsgVM)
 - [270 - Cambiamenti e migliorie per OpenAPI con .NET 9](https://www.youtube.com/watch?v=6xJc5ALYfWA)
 - [269 - Ecco le novità arrivate in Blazor con .NET 9](https://www.youtube.com/watch?v=3Ew-_3GoH1E)
-- [268 - Le novità di NET 9 per MAUI](https://www.youtube.com/watch?v=N6IoJT2uX5o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
