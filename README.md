@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [276 - Struttura delle solution in Visual Studio, alcuni consigli](https://www.youtube.com/watch?v=peZPl_WoF_k)
 - [275 - HybridCache, l&#39;unione di IDistributedCache e IMemoryCache ma con qualcosa in più](https://www.youtube.com/watch?v=tA5CnPaSfls)
 - [274 - Gestire le versioni dei package NuGet in modo centralizzato](https://www.youtube.com/watch?v=z_6E3AbQHws)
 - [273 - Consiglio di lettura: Atomic Habits, piccole abitudini per grandi cambiamenti](https://www.youtube.com/watch?v=zTxqcfR40DY)
 - [272 - Il futuro di Blazor - L&#39;intervista a Daniel Roth](https://www.youtube.com/watch?v=0k93XpnHWYs)
-- [271 - Text templating con Scriban](https://www.youtube.com/watch?v=LvMvpGqsgVM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
