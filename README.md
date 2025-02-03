@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [278 - Risolvere problemi di comunicazione con lo Standup Meeting](https://www.youtube.com/watch?v=D-K5TlllcjY)
 - [277 - Quando abbiamo perso le specifiche?](https://www.youtube.com/watch?v=egBRN64rk38)
 - [276 - Struttura delle solution in Visual Studio, alcuni consigli](https://www.youtube.com/watch?v=peZPl_WoF_k)
 - [275 - HybridCache, l&#39;unione di IDistributedCache e IMemoryCache ma con qualcosa in più](https://www.youtube.com/watch?v=tA5CnPaSfls)
 - [274 - Gestire le versioni dei package NuGet in modo centralizzato](https://www.youtube.com/watch?v=z_6E3AbQHws)
-- [273 - Consiglio di lettura: Atomic Habits, piccole abitudini per grandi cambiamenti](https://www.youtube.com/watch?v=zTxqcfR40DY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
