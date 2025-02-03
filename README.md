@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🖖 I’m Andrea Dottor
-- 🐦 I’m on X https://x.com/dottor
 - 🦋 I’m on Bluesky https://bsky.app/profile/andrea.dottor.net
+- 🐦 I’m on X https://x.com/dottor
 - 📹 Watch my videos on https://www.youtube.com/c/andreadottor
 
 ---
