@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [281 - Podman, l&#39;alternativa più leggera e sicura a Docker](https://www.youtube.com/watch?v=qRFKb5OcexU)
 - [280 - OpenIddict, la libreria per implementare un proprio server OAuth 2.0/OpenID Connect](https://www.youtube.com/watch?v=uYYbfsgLbhE)
 - [279 - Nuove funzionalità per GitHub Copilot](https://www.youtube.com/watch?v=EEnDOIlyccQ)
 - [278 - Risolvere problemi di comunicazione con lo Standup Meeting](https://www.youtube.com/watch?v=D-K5TlllcjY)
 - [277 - Quando abbiamo perso le specifiche?](https://www.youtube.com/watch?v=egBRN64rk38)
-- [276 - Struttura delle solution in Visual Studio, alcuni consigli](https://www.youtube.com/watch?v=peZPl_WoF_k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
