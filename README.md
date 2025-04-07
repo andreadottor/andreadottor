@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [287 - MediatR, AutoMapper e MassTransit a pagamento per uso commerciale](https://www.youtube.com/watch?v=AtocunjZyGc)
 - [286 - Cosa arriverà in ASP.NET Core 10](https://www.youtube.com/watch?v=qTLAZH7ohsE)
 - [285 - Prompty, un playground per i nostri prompt &lpar;dentro VS Code&rpar;](https://www.youtube.com/watch?v=afM38iLfpP0)
 - [284 - .NET 9.0.3 ci ha portato HybridCache!](https://www.youtube.com/watch?v=pwWIjTXs2BY)
 - [283 - Aspire Dashboard, non credevo di usarla così tanto](https://www.youtube.com/watch?v=OWLAb7XvDmg)
-- [282 - Migliorare i tempi di risposta delle API Rest](https://www.youtube.com/watch?v=mYa-_nZQAqk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
