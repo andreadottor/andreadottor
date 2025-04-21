@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [289 - Pipeline di build in C# con Nuke. Ciao ciao YAML](https://www.youtube.com/watch?v=l_X6yC98N1I)
 - [288 - Estendere Copilot con un nostro server MCP](https://www.youtube.com/watch?v=4OfdkStAUvI)
 - [287 - MediatR, AutoMapper e MassTransit a pagamento per uso commerciale](https://www.youtube.com/watch?v=AtocunjZyGc)
 - [286 - Cosa arriverà in ASP.NET Core 10](https://www.youtube.com/watch?v=qTLAZH7ohsE)
 - [285 - Prompty, un playground per i nostri prompt &lpar;dentro VS Code&rpar;](https://www.youtube.com/watch?v=afM38iLfpP0)
-- [284 - .NET 9.0.3 ci ha portato HybridCache!](https://www.youtube.com/watch?v=pwWIjTXs2BY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
