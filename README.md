@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [294 - Liste, dizionari e collezioni: tutto il mondo .NET in una puntata](https://www.youtube.com/watch?v=nnabKceoTic)
 - [293 - Diagnosi senza stress: tracciare le operazioni in .NET con ActivitySource e Activity](https://www.youtube.com/watch?v=MJ2kVyphmvM)
 - [292 - Quanto è veloce il tuo codice? Misuralo con BenchmarkDotNet](https://www.youtube.com/watch?v=QgMp8Q1hjRs)
 - [291 - C# ad alte prestazioni: la potenza di Span e ReadOnlySpan](https://www.youtube.com/watch?v=y7LYG7Y_rh4)
 - [290 - Alla scoperta dei Channels...poco conosciuti, ma indispensabili!](https://www.youtube.com/watch?v=XEJ61OoIqgo)
-- [289 - Pipeline di build in C# con Nuke. Ciao ciao YAML](https://www.youtube.com/watch?v=l_X6yC98N1I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
