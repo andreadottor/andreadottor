@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [296 - L’arte dell’attesa: async e await senza segreti](https://www.youtube.com/watch?v=SetMNuajVB0)
 - [295 - C# si fa leggero! Scripting in C#: un file, nessun progetto, zero scuse](https://www.youtube.com/watch?v=Ic1d3J1mJNY)
 - [294 - Liste, dizionari e collezioni: tutto il mondo .NET in una puntata](https://www.youtube.com/watch?v=nnabKceoTic)
 - [293 - Diagnosi senza stress: tracciare le operazioni in .NET con ActivitySource e Activity](https://www.youtube.com/watch?v=MJ2kVyphmvM)
 - [292 - Quanto è veloce il tuo codice? Misuralo con BenchmarkDotNet](https://www.youtube.com/watch?v=QgMp8Q1hjRs)
-- [291 - C# ad alte prestazioni: la potenza di Span e ReadOnlySpan](https://www.youtube.com/watch?v=y7LYG7Y_rh4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
