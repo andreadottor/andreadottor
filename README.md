@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [298 - Stop! In nome del Token - La cancellazione cooperativa in C#](https://www.youtube.com/watch?v=J-IQdPeKPHk)
 - [297 - Task Parallel Library: metti il turbo al tuo codice C#](https://www.youtube.com/watch?v=_1QWsQkRXmY)
 - [296 - L’arte dell’attesa: async e await senza segreti](https://www.youtube.com/watch?v=SetMNuajVB0)
 - [295 - C# si fa leggero! Scripting in C#: un file, nessun progetto, zero scuse](https://www.youtube.com/watch?v=Ic1d3J1mJNY)
 - [294 - Liste, dizionari e collezioni: tutto il mondo .NET in una puntata](https://www.youtube.com/watch?v=nnabKceoTic)
-- [293 - Diagnosi senza stress: tracciare le operazioni in .NET con ActivitySource e Activity](https://www.youtube.com/watch?v=MJ2kVyphmvM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
