@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [301 - Arrivata la versione commerciale di Mediatr e AutoMapper, che fare ora?](https://www.youtube.com/watch?v=RZJyxwlUNpQ)
 - [300 - UnitsNet: gestire le unità di misura in .NET non è mai stato così facile](https://www.youtube.com/watch?v=UNmKH9Pw5l0)
 - [299 - Parallelismo e zero allocazioni: LINQ non è mai stato così veloce](https://www.youtube.com/watch?v=V6QfIV99Hk8)
 - [298 - Stop! In nome del Token - La cancellazione cooperativa in C#](https://www.youtube.com/watch?v=J-IQdPeKPHk)
 - [297 - Task Parallel Library: metti il turbo al tuo codice C#](https://www.youtube.com/watch?v=_1QWsQkRXmY)
-- [296 - L’arte dell’attesa: async e await senza segreti](https://www.youtube.com/watch?v=SetMNuajVB0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
