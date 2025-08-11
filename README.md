@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [305 - TickerQ, un&#39;ottima idea di base, ma potrà competere con Hangfire e Quartz?](https://www.youtube.com/watch?v=lsrT6_8GscM)
 - [304 - Dalle password alle passkey: l’evoluzione di ASP.NET Identity](https://www.youtube.com/watch?v=PqH5qi1LErU)
 - [303 - Dal caos al controllo: riduci il rumore nei log con .NET 9](https://www.youtube.com/watch?v=nAtQaZ8MNLA)
 - [302 - CQRS in .NET con Brighter e Darker: alternativa a MediatR?](https://www.youtube.com/watch?v=AIveqvvBgig)
 - [301 - Arrivata la versione commerciale di Mediatr e AutoMapper, che fare ora?](https://www.youtube.com/watch?v=RZJyxwlUNpQ)
-- [300 - UnitsNet: gestire le unità di misura in .NET non è mai stato così facile](https://www.youtube.com/watch?v=UNmKH9Pw5l0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
