@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [308 - Da HTML a PDF e scraping: il potere di PuppeteerSharp](https://www.youtube.com/watch?v=wbgGKyD-tls)
 - [307 - Wolverine: non quello con gli artigli, ma quasi! Una libreria di messaggistica per le nostr...](https://www.youtube.com/watch?v=l9yAyGcKlqg)
 - [306 - Magic.IndexedDB: Linq incontra IndexedDB in Blazor](https://www.youtube.com/watch?v=pcYLuYcbA-w)
 - [305 - TickerQ, un&#39;ottima idea di base, ma potrà competere con Hangfire e Quartz?](https://www.youtube.com/watch?v=lsrT6_8GscM)
 - [304 - Dalle password alle passkey: l’evoluzione di ASP.NET Identity](https://www.youtube.com/watch?v=PqH5qi1LErU)
-- [303 - Dal caos al controllo: riduci il rumore nei log con .NET 9](https://www.youtube.com/watch?v=nAtQaZ8MNLA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
