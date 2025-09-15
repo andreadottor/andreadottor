@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [310 - Visual Studio 2026 Insider è qui! AI, velocità e UI moderna](https://www.youtube.com/watch?v=XYgv7VBocEM)
 - [309 - .NET in pillole compie 6 anni: cosa abbiamo imparato insieme](https://www.youtube.com/watch?v=f40Gtc6IOPE)
 - [308 - Da HTML a PDF e scraping: il potere di PuppeteerSharp](https://www.youtube.com/watch?v=wbgGKyD-tls)
 - [307 - Wolverine: non quello con gli artigli, ma quasi! Una libreria di messaggistica per le nostr...](https://www.youtube.com/watch?v=l9yAyGcKlqg)
 - [306 - Magic.IndexedDB: Linq incontra IndexedDB in Blazor](https://www.youtube.com/watch?v=pcYLuYcbA-w)
-- [305 - TickerQ, un&#39;ottima idea di base, ma potrà competere con Hangfire e Quartz?](https://www.youtube.com/watch?v=lsrT6_8GscM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
