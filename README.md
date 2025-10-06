@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [313 - Dal codice alla gestione progetti: cosa puoi fare con i server MCP](https://www.youtube.com/watch?v=6ZUYafVn_w8)
 - [312 - Insegna a GitHub Copilot il tuo stile di codice](https://www.youtube.com/watch?v=WeRRucydKbI)
 - [311 - AI e programmatori alle prime armi: alleato o scorciatoia pericolosa?](https://www.youtube.com/watch?v=ekVY2gGZ3rk)
 - [310 - Visual Studio 2026 Insider è qui! AI, velocità e UI moderna](https://www.youtube.com/watch?v=XYgv7VBocEM)
 - [309 - .NET in pillole compie 6 anni: cosa abbiamo imparato insieme](https://www.youtube.com/watch?v=f40Gtc6IOPE)
-- [308 - Da HTML a PDF e scraping: il potere di PuppeteerSharp](https://www.youtube.com/watch?v=wbgGKyD-tls)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
