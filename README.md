@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [316 - La vulnerabilità più grave mai scoperta in ASP.NET Core [CVE-2025-55315]](https://www.youtube.com/watch?v=1ANE-PxZnMw)
 - [315 - Blazor in Console? Scopri RazorConsole!](https://www.youtube.com/watch?v=4UcjkErdAB0)
 - [314 - Da JSON a UI in un attimo, senza scrivere una riga di HTML](https://www.youtube.com/watch?v=xKzOVJJoPtY)
 - [313 - Dal codice alla gestione progetti: cosa puoi fare con i server MCP](https://www.youtube.com/watch?v=6ZUYafVn_w8)
 - [312 - Insegna a GitHub Copilot il tuo stile di codice](https://www.youtube.com/watch?v=WeRRucydKbI)
-- [311 - AI e programmatori alle prime armi: alleato o scorciatoia pericolosa?](https://www.youtube.com/watch?v=ekVY2gGZ3rk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
