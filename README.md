@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [318 - Scrivi meno, comunica meglio: come Humanizer migliora il tuo output](https://www.youtube.com/watch?v=pLJIhmRlwtk)
 - [317 - C# Expert e Planning: il futuro del pair programming con l’AI](https://www.youtube.com/watch?v=5viPENJzBK0)
 - [316 - La vulnerabilità più grave mai scoperta in ASP.NET Core [CVE-2025-55315]](https://www.youtube.com/watch?v=1ANE-PxZnMw)
 - [315 - Blazor in Console? Scopri RazorConsole!](https://www.youtube.com/watch?v=4UcjkErdAB0)
 - [314 - Da JSON a UI in un attimo, senza scrivere una riga di HTML](https://www.youtube.com/watch?v=xKzOVJJoPtY)
-- [313 - Dal codice alla gestione progetti: cosa puoi fare con i server MCP](https://www.youtube.com/watch?v=6ZUYafVn_w8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
