@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [321 - Le evoluzioni di ASP.NET Core &lpar;con .NET 10&rpar; che gli sviluppatori non possono ignorare](https://www.youtube.com/watch?v=9vFMXsyivzQ)
 - [320 - Dalla keyword field ai nuovi extension members: il meglio di C# 14](https://www.youtube.com/watch?v=3mcVYtyvzcE)
 - [319 - .NET 10 è qui. Questa è la feature che aspettavo!](https://www.youtube.com/watch?v=tfFR0roWCAs)
 - [318 - Scrivi meno, comunica meglio: come Humanizer migliora il tuo output](https://www.youtube.com/watch?v=pLJIhmRlwtk)
 - [317 - C# Expert e Planning: il futuro del pair programming con l’AI](https://www.youtube.com/watch?v=5viPENJzBK0)
-- [316 - La vulnerabilità più grave mai scoperta in ASP.NET Core [CVE-2025-55315]](https://www.youtube.com/watch?v=1ANE-PxZnMw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
