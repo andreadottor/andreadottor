@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [328 - Utility-first in azione: perché sempre più dev scelgono Tailwind CSS](https://www.youtube.com/watch?v=NpfNrzQmLqU)
 - [327 - Open-source nell’era dell’AI: chi paga il conto?](https://www.youtube.com/watch?v=e3X3SvFZN80)
 - [326 - Codice pulito, tempi stretti e realtà: i compromessi nello sviluppo software](https://www.youtube.com/watch?v=B4PJPbefs2E)
 - [325 - Console Application e Worker Service: differenze e casi d’uso in .NET](https://www.youtube.com/watch?v=hmwwnsQQo8k)
 - [324 - Gestire gli argomenti delle CLI: CommandLineParser e Spectre.Console.Cli](https://www.youtube.com/watch?v=LhUPH5uFsrk)
-- [323 - System.CommandLine: il segreto dietro le CLI “fatte come si deve”](https://www.youtube.com/watch?v=MbQJXl15pXc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
