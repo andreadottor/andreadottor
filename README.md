@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [330 - Scripting con C#: Scopri le File-Based apps in .NET 10](https://www.youtube.com/watch?v=VP2KJSN-jPk)
 - [329 - Minimal API vs Controller: scegliere con testa nel 2026](https://www.youtube.com/watch?v=YBgDxtQ9h6E)
 - [328 - Utility-first in azione: perché sempre più dev scelgono Tailwind CSS](https://www.youtube.com/watch?v=NpfNrzQmLqU)
 - [327 - Open-source nell’era dell’AI: chi paga il conto?](https://www.youtube.com/watch?v=e3X3SvFZN80)
 - [326 - Codice pulito, tempi stretti e realtà: i compromessi nello sviluppo software](https://www.youtube.com/watch?v=B4PJPbefs2E)
-- [325 - Console Application e Worker Service: differenze e casi d’uso in .NET](https://www.youtube.com/watch?v=hmwwnsQQo8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
