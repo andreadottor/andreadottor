@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [331 - Email di test senza sorprese: come Mailpit migliora il tuo workflow](https://www.youtube.com/watch?v=LsDg5cmapyY)
 - [330 - Scripting con C#: Scopri le File-Based apps in .NET 10](https://www.youtube.com/watch?v=VP2KJSN-jPk)
 - [329 - Minimal API vs Controller: scegliere con testa nel 2026](https://www.youtube.com/watch?v=YBgDxtQ9h6E)
 - [328 - Utility-first in azione: perché sempre più dev scelgono Tailwind CSS](https://www.youtube.com/watch?v=NpfNrzQmLqU)
 - [327 - Open-source nell’era dell’AI: chi paga il conto?](https://www.youtube.com/watch?v=e3X3SvFZN80)
-- [326 - Codice pulito, tempi stretti e realtà: i compromessi nello sviluppo software](https://www.youtube.com/watch?v=B4PJPbefs2E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
