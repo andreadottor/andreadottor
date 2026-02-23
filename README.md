@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [333 - Contract Testing per API .NET: stop ai breaking change con Pact.NET](https://www.youtube.com/watch?v=4trU8GH1o0g)
 - [332 - Compliance e tracciabilità: quando &lpar;e perché&rpar; usare Audit.NET](https://www.youtube.com/watch?v=-g35DpOP9CE)
 - [331 - Email di test senza sorprese: come Mailpit migliora il tuo workflow](https://www.youtube.com/watch?v=LsDg5cmapyY)
 - [330 - Scripting con C#: Scopri le File-Based apps in .NET 10](https://www.youtube.com/watch?v=VP2KJSN-jPk)
 - [329 - Minimal API vs Controller: scegliere con testa nel 2026](https://www.youtube.com/watch?v=YBgDxtQ9h6E)
-- [328 - Utility-first in azione: perché sempre più dev scelgono Tailwind CSS](https://www.youtube.com/watch?v=NpfNrzQmLqU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
