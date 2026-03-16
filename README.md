@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [336 - AngleSharp: il parser HTML moderno per .NET](https://www.youtube.com/watch?v=uy0_WuAKZrk)
 - [335 - SignalR nel 2026: potente, ma non sempre necessario](https://www.youtube.com/watch?v=_paj3nC9Khg)
 - [334 - Con l’AI il Code Review è morto?](https://www.youtube.com/watch?v=EwupG7fM84w)
 - [333 - Contract Testing per API .NET: stop ai breaking change con Pact.NET](https://www.youtube.com/watch?v=4trU8GH1o0g)
 - [332 - Compliance e tracciabilità: quando &lpar;e perché&rpar; usare Audit.NET](https://www.youtube.com/watch?v=-g35DpOP9CE)
-- [331 - Email di test senza sorprese: come Mailpit migliora il tuo workflow](https://www.youtube.com/watch?v=LsDg5cmapyY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
