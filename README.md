@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [337 - Stop alle stringhe criptiche: pianificare job in modo umano](https://www.youtube.com/watch?v=jAFAsEdJWy4)
 - [Blazor non è Silverlight, ed è ora che vi svegliate!](https://www.youtube.com/watch?v=p8jh0CrAPqY)
 - [336 - AngleSharp: il parser HTML moderno per .NET](https://www.youtube.com/watch?v=uy0_WuAKZrk)
 - [335 - SignalR nel 2026: potente, ma non sempre necessario](https://www.youtube.com/watch?v=_paj3nC9Khg)
 - [334 - Con l’AI il Code Review è morto?](https://www.youtube.com/watch?v=EwupG7fM84w)
-- [333 - Contract Testing per API .NET: stop ai breaking change con Pact.NET](https://www.youtube.com/watch?v=4trU8GH1o0g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
