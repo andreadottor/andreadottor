@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [Hanno ancora senso le community? Spoiler: per me si!](https://www.youtube.com/watch?v=LJ3wyTm6h0M)
 - [339 - Come NON perdersi in una codebase &lpar;grande&rpar;](https://www.youtube.com/watch?v=MfQe7gRhvjQ)
 - [338 - Polly e retry: quando diventano un bug](https://www.youtube.com/watch?v=GsC6JjUpCbM)
 - [337 - Stop alle stringhe criptiche: pianificare job in modo umano](https://www.youtube.com/watch?v=jAFAsEdJWy4)
 - [Blazor non è Silverlight, ed è ora che vi svegliate!](https://www.youtube.com/watch?v=p8jh0CrAPqY)
-- [336 - AngleSharp: il parser HTML moderno per .NET](https://www.youtube.com/watch?v=uy0_WuAKZrk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
