@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [I token finiscono… se li usi.](https://www.youtube.com/watch?v=b5PadcYgZ6k)
 - [340 - Semantic Kernel: perché chiamare un modello non basta più](https://www.youtube.com/watch?v=aWg86QIxVj8)
 - [Niente .NET in pillole questa settimana…ancora mal di gola😔 #podcast #dotnetinpillole](https://www.youtube.com/shorts/4YttGeFWBnw)
 - [Hanno ancora senso le community? Spoiler: per me si!](https://www.youtube.com/watch?v=LJ3wyTm6h0M)
 - [339 - Come NON perdersi in una codebase &lpar;grande&rpar;](https://www.youtube.com/watch?v=MfQe7gRhvjQ)
-- [338 - Polly e retry: quando diventano un bug](https://www.youtube.com/watch?v=GsC6JjUpCbM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
