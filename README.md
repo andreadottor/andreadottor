@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [I token sono denaro…vediamo come poterne risparmiare alcuni](https://www.youtube.com/shorts/9Nc3V0KkvQU)
 - [GitHub Copilot, dal 1 giugno si cambia musica](https://www.youtube.com/watch?v=u_oENOf2ZXM)
 - [342 - Messaging in .NET senza complicarsi troppo la vita](https://www.youtube.com/watch?v=u3SdLN44ReE)
 - [341 - Microsoft Agent Framework: il nuovo modo di creare AI Agent in .NET](https://www.youtube.com/watch?v=joGmlf6kfNk)
 - [I token finiscono… se li usi.](https://www.youtube.com/watch?v=b5PadcYgZ6k)
-- [340 - Semantic Kernel: perché chiamare un modello non basta più](https://www.youtube.com/watch?v=aWg86QIxVj8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
