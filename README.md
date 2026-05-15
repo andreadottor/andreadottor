@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [GitHub aggiungerà credito “flex” alle sottoscrizioni](https://www.youtube.com/shorts/8Q-Mywm1COg)
 - [343 - Mutation Testing: chi testa i test?](https://www.youtube.com/watch?v=p3oUbUuL20k)
 - [I token sono denaro…vediamo come poterne risparmiare alcuni](https://www.youtube.com/shorts/9Nc3V0KkvQU)
 - [GitHub Copilot, dal 1 giugno si cambia musica](https://www.youtube.com/watch?v=u_oENOf2ZXM)
 - [342 - Messaging in .NET senza complicarsi troppo la vita](https://www.youtube.com/watch?v=u3SdLN44ReE)
-- [341 - Microsoft Agent Framework: il nuovo modo di creare AI Agent in .NET](https://www.youtube.com/watch?v=joGmlf6kfNk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
