@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [345 - 20 anni di community, persone e tecnologia](https://www.youtube.com/watch?v=Y3sDcTlIX4Q)
 - [344 - ASP.NET Core e Blazor in .NET 11: cosa c’è già nelle prime preview](https://www.youtube.com/watch?v=wVzneGFm5Pw)
 - [GitHub aggiungerà credito “flex” alle sottoscrizioni](https://www.youtube.com/shorts/8Q-Mywm1COg)
 - [343 - Mutation Testing: chi testa i test?](https://www.youtube.com/watch?v=p3oUbUuL20k)
 - [I token sono denaro…vediamo come poterne risparmiare alcuni](https://www.youtube.com/shorts/9Nc3V0KkvQU)
-- [GitHub Copilot, dal 1 giugno si cambia musica](https://www.youtube.com/watch?v=u_oENOf2ZXM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
