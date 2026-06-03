@@ -29,7 +29,7 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
-- [346 - Usare .NET Aspire per sviluppare meglio](https://www.youtube.com/watch?v=2KA_RFewAyo)
+- [346 - Usare Aspire per sviluppare meglio](https://www.youtube.com/watch?v=2KA_RFewAyo)
 - [345 - 20 anni di community, persone e tecnologia](https://www.youtube.com/watch?v=Y3sDcTlIX4Q)
 - [344 - ASP.NET Core e Blazor in .NET 11: cosa c’è già nelle prime preview](https://www.youtube.com/watch?v=wVzneGFm5Pw)
 - [GitHub aggiungerà credito “flex” alle sottoscrizioni](https://www.youtube.com/shorts/8Q-Mywm1COg)
