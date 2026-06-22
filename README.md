@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [349 - Continuous AI: oltre la CI/CD con GitHub](https://www.youtube.com/watch?v=4K6pSjO2Cb8)
 - [348 - GitHub Pages: l’hosting gratuito che molti sviluppatori ignorano](https://www.youtube.com/watch?v=yN1buk6ocSc)
 - [347 - Prima del prompt: documenti, markdown e contesto per l’AI](https://www.youtube.com/watch?v=71FxkfSWLFE)
 - [346 - Usare Aspire per sviluppare meglio](https://www.youtube.com/watch?v=2KA_RFewAyo)
 - [345 - 20 anni di community, persone e tecnologia](https://www.youtube.com/watch?v=Y3sDcTlIX4Q)
-- [344 - ASP.NET Core e Blazor in .NET 11: cosa c’è già nelle prime preview](https://www.youtube.com/watch?v=wVzneGFm5Pw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
