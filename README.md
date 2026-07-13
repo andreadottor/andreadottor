@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [352 - PostgreSQL e .NET: quando il database modella il dominio](https://www.youtube.com/watch?v=855gncFeUyM)
 - [351 - Microsoft.Data.SqlClient: il driver che usi ogni giorno ma non conosci](https://www.youtube.com/watch?v=jFSmdja8c50)
 - [350 - GitHub Copilot App: dalla issue alla pull request con l’AI](https://www.youtube.com/watch?v=ZXoHJa_Bzmc)
 - [349 - Continuous AI: oltre la CI/CD con GitHub](https://www.youtube.com/watch?v=4K6pSjO2Cb8)
 - [348 - GitHub Pages: l’hosting gratuito che molti sviluppatori ignorano](https://www.youtube.com/watch?v=yN1buk6ocSc)
-- [347 - Prima del prompt: documenti, markdown e contesto per l’AI](https://www.youtube.com/watch?v=71FxkfSWLFE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
