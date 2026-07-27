@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [354 - Copilot e Claude: i tool &lpar;e modi&rpar; per ridurre token, costi e contesto](https://www.youtube.com/watch?v=O9rm7KDKJdM)
 - [353 - TimescaleDB: quando PostgreSQL incontra le serie temporali](https://www.youtube.com/watch?v=QZAlwufojxk)
 - [352 - PostgreSQL e .NET: quando il database modella il dominio](https://www.youtube.com/watch?v=855gncFeUyM)
 - [351 - Microsoft.Data.SqlClient: il driver che usi ogni giorno ma non conosci](https://www.youtube.com/watch?v=jFSmdja8c50)
 - [350 - GitHub Copilot App: dalla issue alla pull request con l’AI](https://www.youtube.com/watch?v=ZXoHJa_Bzmc)
-- [349 - Continuous AI: oltre la CI/CD con GitHub](https://www.youtube.com/watch?v=4K6pSjO2Cb8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
