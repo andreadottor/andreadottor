@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [357 - C# 15 e Union Types: finalmente servono davvero?](https://www.youtube.com/watch?v=sK-vX2LPRrg)
 - [356 - Dal codice ai log: perché Aspire può cambiare i coding agent](https://www.youtube.com/watch?v=dOhmQr3NGpg)
 - [355 - L’AI può davvero trasformare un mockup in codice?](https://www.youtube.com/watch?v=rSao2B4lyHM)
 - [354 - Copilot e Claude: i tool &lpar;e modi&rpar; per ridurre token, costi e contesto](https://www.youtube.com/watch?v=O9rm7KDKJdM)
 - [353 - TimescaleDB: quando PostgreSQL incontra le serie temporali](https://www.youtube.com/watch?v=QZAlwufojxk)
-- [352 - PostgreSQL e .NET: quando il database modella il dominio](https://www.youtube.com/watch?v=855gncFeUyM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
