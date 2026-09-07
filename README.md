@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [360 - Un solo modello AI non basta più?](https://www.youtube.com/watch?v=juUyUhEqYLs)
 - [359 - Blazor Server scala meglio con .NET 11?](https://www.youtube.com/watch?v=pca9yvJFjU8)
 - [358 - Validazione asincrona in .NET 11: era ora?](https://www.youtube.com/watch?v=YJEHxiMBSVc)
 - [357 - C# 15 e Union Types: finalmente servono davvero?](https://www.youtube.com/watch?v=sK-vX2LPRrg)
 - [356 - Dal codice ai log: perché Aspire può cambiare i coding agent](https://www.youtube.com/watch?v=dOhmQr3NGpg)
-- [355 - L’AI può davvero trasformare un mockup in codice?](https://www.youtube.com/watch?v=rSao2B4lyHM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
