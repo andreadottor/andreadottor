@@ -13,6 +13,22 @@ I work with companies on software development, architecture, technology choices,
 
 ---
 
+## 👨‍💻 What I do
+
+I mainly work with:
+
+- **C# / .NET**
+- **ASP.NET Core**
+- **Blazor**
+- software architecture and application design
+- application modernization and migrations
+- proof of concepts
+- technical consulting and team support
+
+I also teach .NET and web development and regularly speak at conferences and community events.
+
+---
+
 ## 🎙️ .NET in pillole
 
 <img
@@ -46,22 +62,6 @@ The podcast has been running for more than 350 episodes and covers topics such a
 - [Spreaker](https://www.spreaker.com/show/net-in-pillole)
 
 You can also find the episodes on my [YouTube channel](https://www.youtube.com/AndreaDottor).
-
----
-
-## 👨‍💻 What I do
-
-I mainly work with:
-
-- **C# / .NET**
-- **ASP.NET Core**
-- **Blazor**
-- software architecture and application design
-- application modernization and migrations
-- proof of concepts
-- technical consulting and team support
-
-I also teach .NET and web development and regularly speak at conferences and community events.
 
 ---
 
