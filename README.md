@@ -78,11 +78,11 @@ Over the years I've been involved in organizing community events, conferences an
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [364 - Eseguire codice generato dall&#39;AI in sicurezza](https://www.youtube.com/watch?v=FMQW4_gsceE)
 - [363 - Non tutto deve essere una REST API](https://www.youtube.com/watch?v=EcdFCTC-E8Q)
 - [362 - .NET 11 è più veloce senza cambiare il nostro codice?](https://www.youtube.com/watch?v=tJdCg2AFJgg)
 - [361 - E se fosse il provider a scegliere il modello?](https://www.youtube.com/watch?v=p6yvjzLr07A)
 - [360 - Un solo modello AI non basta più?](https://www.youtube.com/watch?v=juUyUhEqYLs)
-- [359 - Blazor Server scala meglio con .NET 11?](https://www.youtube.com/watch?v=pca9yvJFjU8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
