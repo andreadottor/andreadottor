@@ -78,11 +78,11 @@ Over the years I've been involved in organizing community events, conferences an
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [367 - GitHub Spec Kit: l&#39;AI scrive codice, ma chi scrive i requisiti?](https://www.youtube.com/watch?v=ghxKbbWMVRU)
 - [366 - Ho scritto un libro su .NET!](https://www.youtube.com/watch?v=FISTDnR3QA4)
 - [365 - Memory dump in .NET: quando log e trace non bastano](https://www.youtube.com/watch?v=-Uxfs-6xujw)
 - [364 - Eseguire codice generato dall&#39;AI in sicurezza](https://www.youtube.com/watch?v=FMQW4_gsceE)
 - [363 - Non tutto deve essere una REST API](https://www.youtube.com/watch?v=EcdFCTC-E8Q)
-- [362 - .NET 11 è più veloce senza cambiare il nostro codice?](https://www.youtube.com/watch?v=tJdCg2AFJgg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
