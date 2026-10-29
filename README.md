@@ -29,6 +29,30 @@ I also teach .NET and web development and regularly speak at conferences and com
 
 ---
 
+## 📘 My book: Imparare .NET sviluppando
+
+<a href="https://www.amazon.it/dp/B0HN2KXPLR">
+  <img
+    src="https://raw.githubusercontent.com/andreadottor/Imparare-.NET-sviluppando/main/images/cover_front.jpg"
+    alt="Imparare .NET sviluppando book cover"
+    width="160"
+    align="left"
+  />
+</a>
+
+I wrote **Imparare .NET sviluppando**, an Italian book that goes from **C#** to **ASP.NET Core** and **Blazor** by building a complete web application step by step.
+
+Starting from the basics of .NET and C#, each chapter evolves a simple ticketing application into a full web app, introducing topics when they become useful to solve a concrete problem.
+
+It's designed both for those who want to start programming with .NET and C#, and for developers who already know C# and want to approach ASP.NET Core and Blazor.
+
+📖 [Buy it on Amazon](https://www.amazon.it/dp/B0HN2KXPLR) ·
+💻 [Source code and exercises](https://github.com/andreadottor/Imparare-.NET-sviluppando)
+
+<br clear="left" />
+
+---
+
 ## 🎙️ .NET in pillole
 
 <img
