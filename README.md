@@ -102,11 +102,11 @@ Over the years I've been involved in organizing community events, conferences an
 ### 📺 Latest YouTube videos (or podcast)
 
 <!-- YOUTUBE:START -->
+- [369 - Stiamo perdendo qualcosa di importante?](https://www.youtube.com/watch?v=UFNyGxQncUM)
 - [368 - Oltre GitHub Spec Kit: OpenSpec e BMAD a confronto](https://www.youtube.com/watch?v=GZP8rOT2h98)
 - [367 - GitHub Spec Kit: l&#39;AI scrive codice, ma chi scrive i requisiti?](https://www.youtube.com/watch?v=ghxKbbWMVRU)
 - [366 - Ho scritto un libro su .NET!](https://www.youtube.com/watch?v=FISTDnR3QA4)
 - [365 - Memory dump in .NET: quando log e trace non bastano](https://www.youtube.com/watch?v=-Uxfs-6xujw)
-- [364 - Eseguire codice generato dall&#39;AI in sicurezza](https://www.youtube.com/watch?v=FMQW4_gsceE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/AndreaDottor)
